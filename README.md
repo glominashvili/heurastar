@@ -11,5 +11,4 @@ Image shows process of chosing nodes with smalles heuristic score and repeat pro
 #[Info about Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
 
 ####TODO
-Add Makefile
-Improve some functions
+Add Makefile and Improve some functions

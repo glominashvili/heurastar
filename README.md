@@ -9,3 +9,7 @@ Image shows process of chosing nodes with smalles heuristic score and repeat pro
 #[Info about A* algorithm](http://en.wikipedia.org/wiki/A*_search_algorithm)
 #[Info about Manhattan Distance](http://en.wikipedia.org/wiki/Taxicab_geometry)
 #[Info about Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance)
+
+####TODO
+Add Makefile
+Improve some functions

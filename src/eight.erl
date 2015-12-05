@@ -1,7 +1,20 @@
 -module(eight).
 -author("g.lominashvili@gmail.com").
 
--export([start/0, start/2,  motherofnodes/2, motherofnodes/3, matches/2, print/1, worker/4, moves/2, move/3, index/2, heuristicum/2, manhattan/2, hamming/2, get_timestamp/0]).
+-export([start/0]).
+-export([start/2]).
+-export([motherofnodes/2]).
+-export([motherofnodes/3]).
+-export([matches/2]). 
+-export([print/1]).
+-export([worker/4]).
+-export([moves/2]).
+-export([move/3]).
+-export([index/2]).
+-export([heuristicum/2]).
+-export([manhattan/2]).
+-export([hamming/2]).
+-export([get_timestamp/0]).
 
 -define(X,0).
 
